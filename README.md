@@ -1,2 +1,2 @@
 # portfolio
-My personal portfolio http://hubertmisiewicz.rf.gd/
+My personal portfolio https://huberti1.github.io/
